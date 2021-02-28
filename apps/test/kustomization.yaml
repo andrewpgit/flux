@@ -13,4 +13,4 @@ namespace: podinfo
 resources:
   - ../base/podtest
 patchesStrategicMerge:
-  - podinfo--test-values.yaml
+  - podinfo-test-values.yaml
